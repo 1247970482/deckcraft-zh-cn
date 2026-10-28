@@ -1,0 +1,10 @@
+{
+  "version": "0.11.1",
+  "sourceCommit": "9ec39267931c0163dd5648c879043edcb9603cb8",
+  "architecture": "arm64",
+  "originalExecutableSHA256": [
+    "4c0c0c6f954b89424b5dbcaa2cfb556a0ff564492255897b7a51c37f3b281105"
+  ],
+  "chineseExecutableSHA256": "7fa599adbb574a9198d841bd2524704c5b747661df1c3f9b420d8942baa56e58",
+  "fontCommit": "43913056ce82a3fdad0ef69f6b88d1dc922a8104"
+}
